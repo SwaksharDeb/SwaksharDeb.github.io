@@ -76,12 +76,11 @@ highlight_name: true
 
 <!-- **About me** -->
 
-# Hello There (･ω･)ﾉ
-I'm currently studying Robotics and Mechatronics Engineering at The University of Dhaka. My research is focused on computer vision and deep learning. I am also interested in Graph Neural Networks and Geometric Deep Learning. 
+# Hi, I'm Swakshar,
+I'm  a graduate student from the Robotics and Mechatronics Engineering at The University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is focused on computer vision and deep learning. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of computer vison. 
 
-In my free time, I make generative art using [processing](https://processing.org/), JavaScript and Python. I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
+I'm currently reading [Coordinate Independent Convolutional Networks](https://arxiv.org/pdf/2106.06020.pdf), which infactuated a fascination towards Geometric Deep Learning within me. I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
 
-I'm also the Pop!_rep for Bangladesh. So, if you're from BD and are in need of some [system76 stickers](https://system76.com/merch/stickers), feel free to ask :)
 <!-- **Open source and open data**
 
 * [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations
