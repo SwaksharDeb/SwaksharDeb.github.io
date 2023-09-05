@@ -2,10 +2,10 @@
 
 
 # Display name
-title: Tahsin Tariq
+title: Swakshar Deb
 # Full name (for SEO)
-first_name: Tahsin
-last_name: Tariq
+first_name: Swakshar 
+last_name: Deb
 
 # Status emoji
 status:
@@ -36,7 +36,7 @@ education:
   courses:
     - course: Bsc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2022
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
