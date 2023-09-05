@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: tahsinbanna@gmail.com
+  email: swakshar.sd@gmail.com
 
 design:
   columns: '2'
