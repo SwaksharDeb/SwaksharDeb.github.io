@@ -14,7 +14,7 @@ links:
   - icon_pack: fas
     icon: scroll
     name: Paper
-    url: 'https://doi.org/10.1109/IJCNN54540.2023.10191500'
+    url: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709340'
   - icon_pack: ai
     icon: open-data
     name: Code
