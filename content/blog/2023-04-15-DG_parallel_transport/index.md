@@ -8,8 +8,8 @@ tags: []
 image:
   caption: ''
   focal_point: ''
-summary: 'Generating 3D terrain surfaces using Poisson Disc Sampling'
-subtitle: 'Using Poisson Disc Sampling'
+summary: 'Connection, Parallel Transport and Geodesis'
+subtitle: 'Connection, Parallel Transport and Geodesis'
 smartDashes: true
 ---
 # Introduction
