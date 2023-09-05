@@ -14,12 +14,13 @@ links:
   - icon_pack: fas
     icon: scroll
     name: Paper
-    url: 'https://ieeexplore.ieee.org/abstract/document/10129187'
+    url: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129187'
   - icon_pack: ai
     icon: open-data
     name: Code
-    url: 'https://github.com/TahsinTariq/GEMM'
+    url: 'https://github.com/SwaksharDeb/Data-Augmentation-for-Bangla-English-Code-Mixed-Sentiment-Analysis-Enhancing-Cross-Linguistic-Contex'
 ---
 
-![gemm_architecture](https://user-images.githubusercontent.com/62146852/232325513-e9de077e-49d3-4ce0-b090-6360054c55ca.png)
-<p style="text-align:center"> Figure. The GEMM Architecture </p>
+![gemm_architecture](../../../static/img/nlp.PNG)
+<p style="text-align:center"> Figure. (a) Proposed data augmentation process with multiple sampling rates. For simplicity, we only showed sampling rate 1 and 2 in the above diagram. (b) Illustration of word embedding training process. We augment input data with several sampling rate.
+(c) Training the classifier using learned word embedding. </p>
