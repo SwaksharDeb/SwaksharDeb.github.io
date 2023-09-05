@@ -48,16 +48,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/tariq_tahsin
+    link: https://twitter.com/SwaksharDeb
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=7pro7tAAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=mR7DVwkAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/TahsinTariq
+    link: https://github.com/SwaksharDeb
     display:
       header: true
   # Link to a PDF of your resume/CV.
