@@ -35,7 +35,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;p style="text-align:center"> Figure. The GEMM Architecture &lt;/p></description></item><item><title>Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises</title><link>https://swakshardeb.github.io/publication/2022-stgcn_rehab.html</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/publication/2022-stgcn_rehab.html</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://github.com/SwaksharDeb/swakshardeb.github.io/blob/main/static/img/stgcn_architecture.PNG" alt="Rehab Architecture" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="../../../static/img/stgcn_architecture.PNG" alt="Rehab Architecture" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p style="text-align:center"> Figure. GCN based end-to-end models using (a-b) vanilla STGCN and (c-d) extended STGCN for rehabilitation exercise assessment. &lt;/p></description></item><item><title>Connection, Parallel Transport and Geodesis</title><link>https://swakshardeb.github.io/blog/parallel-transport.html</link><pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/blog/parallel-transport.html</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
