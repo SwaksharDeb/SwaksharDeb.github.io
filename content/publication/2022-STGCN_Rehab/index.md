@@ -25,5 +25,6 @@ links:
     url: 'https://youtu.be/HjJh5guZLDQ'
 ---
 
-![gemm_architecture](https://user-images.githubusercontent.com/62146852/232325513-e9de077e-49d3-4ce0-b090-6360054c55ca.png)
-<p style="text-align:center"> Figure. The GEMM Architecture </p>
+![GCN based end-to-end models using (a-b) vanilla STGCN and (c-d) extended STGCN for rehabilitation exercise assessment.](https://github.com/SwaksharDeb/swakshardeb.github.io/blob/main/static/img/stgcn_architecture.PNG)
+
+<p style="text-align:center"> Figure. GCN based end-to-end models using (a-b) vanilla STGCN and (c-d) extended STGCN for rehabilitation exercise assessment. </p>
