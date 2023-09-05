@@ -8,7 +8,7 @@ abstract: "In today’s digital world, automated sentiment analysis from online 
 featured: true
 tags:
 - Natural Language Processing
-- Deep Learning
+- Sentiment Analysis
 publication: "2023 IEEE Access"
 links:
   - icon_pack: fas
