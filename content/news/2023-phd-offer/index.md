@@ -3,7 +3,7 @@ date: 2023-07-10
 publishDate: 2023-07-10
 external_link: ""
 image:
-  caption: UGA logo
+  caption: RMEDU logo
   focal_point: Smart
 slides: example
 summary: CO2 Capture Using Nanoporous Adsorbents -- A Multiscale Numerical Approach From Molecular Aspects to the Engineering Scale
@@ -16,9 +16,9 @@ links:
     name: LIPhy
     url: 'https://liphy.univ-grenoble-alpes.fr/'
 ---
-**Topic.** The title of my M.Sc. thesis was " Empowering Graph Wavelet Convolution for
+**Topic.** The title of my M.Sc. thesis was **" Empowering Graph Wavelet Convolution for
 Node Classification: A Novel Approach with
-Local Lifting Scheme". In this thesis work we focused to the phenomenon of production of undesirable wavelet filters within graph wavelet based neural networks. 
+Local Lifting Scheme"**. In this thesis work we focused to the phenomenon of production of undesirable wavelet filters within graph wavelet based neural networks and presented a solution framework to overcome this phenemonenon with with our proposed Tree Lifting Scheme. 
 
 **Summary.** Wavelet-based graph neural networks have received increasing attention in various graph machine learning tasks. However, in node classification, existing graph wavelet-based methods are limited in their ability to generalize to arbitrary graphs due to their implementation of predefined wavelet filters with inherent homophilic assumptions while ignoring heterophily. Recent studies have attempted to address this issue through a wavelet lifting transform that requires the bipartite graph, therefore, altering the graph topology, and leading to undesirable wavelet filters. In this thesis, we introduce a novel class of graph wavelet neural network based on our proposed tree-lifting scheme that is able to learn adaptive wavelet filters over arbitrary graphs. Our proposed generalized adaptive graph wavelet network (GA-GWNN) preserves the graph topology through computation trees while implementing the lifting scheme on arbitrary graph structures. Additionally, we concentrate on the local substructure as an acyclic tree while implementing the lifting strategy locally. Moreover, this locally defined lifting scheme incorporates and fuses both high-pass and low-pass frequency components to enhance the feature representation. We further benchmark our proposed GA-GWNN model with three homophilic datasets (Cora, Citeseer, PubMed), and four heterophilic datasets (Film, Cornell, Texas, Wisconsin) and to demonstrate the scalability of our proposed GA-GWNN we evaluated our model on two large-scale datasets namely, Ogbn-Arxiv and Ogbn-Products. In addition, we further introduce a more scaleable and computationally efficient version of GA-GWNN, namely simple and efficient adaptive graph wavelet neural network (SEA-GWNN).
 SEA-GWNN incorporates higher-order neighborhoods to extract multiscale information and implements the lifting scheme without the need for an inverse transform. Additionally, SEA-GWNN introduces an attention detachment strategy, enabling the computation of attention parameters only once and re-utilizing them in successive layers, thus making SEA-GWNN more scalable compared to GA-GWNN. Finally, we benchmark this proposed SEA-GWNN on nine real-world homophilic and heterophilic datasets from three categories (i.e., citation, webpage, and film industry graphs) and four large-scale graphs, including Ogbn-Arxiv, Arxiv, Genius, and Penn94. The experimental results from these datasets demonstrate the effectiveness of our method.
