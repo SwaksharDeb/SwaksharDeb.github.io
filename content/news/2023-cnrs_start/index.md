@@ -6,10 +6,10 @@ image:
   caption: ICT Ministry logo
   focal_point: Smart
 slides: example
-summary: I will be mainly working on the separation of fluid mixture using soft matter membrane, in LiPhy, Grenoble.
+summary: I will be developing a real-time stroke rehabilitaiton software for the people of Bangladesh.
 tags:
 - Personal
-title: Our project, "Developing an AI-Powered Robo-Therapist to Guide and Assess the Quality of Stroke Rehabilitation Exercises", accepted for the goverment grant from ICT Ministry, Bangladesh 
+title: Our Stroke Rehabilitation research project accepted for the goverment grant from ICT Ministry, Bangladesh 
 links:
   - icon_pack: fas
     icon: scroll
