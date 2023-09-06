@@ -21,6 +21,6 @@ links:
     url: 'https://github.com/SwaksharDeb/Data-Augmentation-for-Bangla-English-Code-Mixed-Sentiment-Analysis-Enhancing-Cross-Linguistic-Contex'
 ---
 
-![gemm_architecture](../../../static/img/nlp.PNG)
+![gemm_architecture](/img/nlp.PNG)
 <p style="text-align:center"> Figure. (a) Proposed data augmentation process with multiple sampling rates. For simplicity, we only showed sampling rate 1 and 2 in the above diagram. (b) Illustration of word embedding training process. We augment input data with several sampling rate.
 (c) Training the classifier using learned word embedding. </p>
