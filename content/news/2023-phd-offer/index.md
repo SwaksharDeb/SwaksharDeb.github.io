@@ -6,9 +6,7 @@ image:
   caption: RMEDU logo
   focal_point: Smart
 slides: example
-summary: Empowering Graph Wavelet Convolution for
-Node Classification-- A Novel Approach with
-Local Lifting Scheme
+summary: Empowering Graph Wavelet Convolution for Node Classification-- A Novel Approach with Local Lifting Scheme
 tags:
 - Personal
 title: I have successfuly defended my M.Sc Thesis
