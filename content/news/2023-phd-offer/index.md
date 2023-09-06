@@ -3,7 +3,7 @@ date: 2023-07-10
 publishDate: 2023-07-10
 external_link: ""
 image:
-  caption: RMEDU logo
+  caption: Dhaka University logo
   focal_point: Smart
 slides: example
 summary: Empowering Graph Wavelet Convolution for Node Classification-- A Novel Approach with Local Lifting Scheme
