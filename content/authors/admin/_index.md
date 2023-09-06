@@ -33,10 +33,13 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - course: Bsc in Robotics and Mechatronics Engineering
+  Degree:
+    - B.Sc: Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2021
+      year: 2017-2021
+    - M.Sc: Robotics and Mechatronics Engineering
+      institution: University of Dhaka, Bangladesh
+      year: 2022-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

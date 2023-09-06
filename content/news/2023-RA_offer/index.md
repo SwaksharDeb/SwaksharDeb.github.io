@@ -3,7 +3,7 @@ date: 2023-06-29
 publishDate: 2023-06-29
 external_link: ""
 image:
-  caption: DU logo
+  caption: RMEDU logo
   focal_point: Smart
 slides: example
 summary: I've been hired as a full time research assistant under Dr. Sejuti Rahmna.

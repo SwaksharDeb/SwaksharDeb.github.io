@@ -6,7 +6,7 @@ image:
   caption: Centennial Research Grant
   focal_point: Smart
 slides: example
-summary: I've been hired as a full time research assistant under Dr. Sejuti Rahmna.
+summary: I am working on an **Intelligent Hospital Assistance Robot** to fight contagion.
 
 tags:
 - Personal
