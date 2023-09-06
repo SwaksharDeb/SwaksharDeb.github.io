@@ -3,13 +3,13 @@ date: 2023-06-29
 publishDate: 2023-06-29
 external_link: ""
 image:
-  caption: DU logo
+  caption: Centennial Research Grant
   focal_point: Smart
 slides: example
 summary: I've been hired as a full time research assistant under Dr. Sejuti Rahmna.
 
 tags:
-- Job
+- Personal
 title: Our project "IHABOT" accepted for the prestigious Centennial Research Grant.
 links:
   - icon_pack: fas
