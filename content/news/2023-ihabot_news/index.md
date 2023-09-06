@@ -10,7 +10,7 @@ summary: I am working on an **Intelligent Hospital Assistance Robot** to fight c
 
 tags:
 - Personal
-title: Our project "IHABOT" accepted for the prestigious Centennial Research Grant.
+title: Our project "IHABOT" accepted for the prestigious Centennial Research Grant
 links:
   - icon_pack: fas
     icon: book

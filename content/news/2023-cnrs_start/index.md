@@ -9,7 +9,7 @@ slides: example
 summary: I will be developing a real-time stroke rehabilitaiton software for the people of Bangladesh.
 tags:
 - Personal
-title: Our Stroke Rehabilitation research project accepted for the goverment grant from ICT Ministry, Bangladesh 
+title: Our stroke rehabilitation research project is accepted for the goverment grant from ICT Ministry, Bangladesh 
 links:
   - icon_pack: fas
     icon: file
