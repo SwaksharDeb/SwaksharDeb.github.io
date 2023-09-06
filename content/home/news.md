@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 widget: portfolio
 headless: true
 weight: 30
