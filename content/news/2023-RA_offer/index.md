@@ -13,7 +13,7 @@ tags:
 title: Research Assistantship Under Dr. Sejuti Rahman. 
 links:
   - icon_pack: fas
-    icon: scroll
+    icon: fa-duotone fa-user-tie-hair-long
     name: Dr. Sejuti Rahman
     url: 'https://www.du.ac.bd/faculty/faculty_details/RME/2150'
 ---
