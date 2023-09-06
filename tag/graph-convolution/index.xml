@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graph Convolution | Swakshar Deb</title><link>https://swakshardeb.github.io/tag/graph-convolution.html</link><atom:link href="https://swakshardeb.github.io/tag/graph-convolution/index.xml" rel="self" type="application/rss+xml"/><description>Graph Convolution</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://swakshardeb.github.io/media/logo_hu05f0f36ce171b899b64ba629782702e3_51428_300x300_fit_lanczos_3.png</url><title>Graph Convolution</title><link>https://swakshardeb.github.io/tag/graph-convolution.html</link></image><item><title>Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises</title><link>https://swakshardeb.github.io/publication/2022-stgcn_rehab.html</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/publication/2022-stgcn_rehab.html</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../../../static/img/stgcn_architecture.PNG" alt="Rehab Architecture" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="../../img/stgcn_architecture.PNG" alt="Rehab Architecture" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p style="text-align:center"> Figure. GCN based end-to-end models using (a-b) vanilla STGCN and (c-d) extended STGCN for rehabilitation exercise assessment. &lt;/p></description></item></channel></rss>
