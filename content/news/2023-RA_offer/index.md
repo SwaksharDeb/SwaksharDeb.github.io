@@ -10,7 +10,7 @@ summary: I've been hired as a full time research assistant under Dr. Sejuti Rahm
 
 tags:
 - Job
-title: Research Assistantship Under Dr. Sejuti Rahman. 
+title: Research Assistantship Under Dr. Sejuti Rahman 
 links:
   - icon_pack: fas
     icon: chalkboard-user
