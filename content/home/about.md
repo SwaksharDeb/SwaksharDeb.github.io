@@ -21,7 +21,7 @@ css_style: "padding-top: 20px; padding-bottom: 20px;"
 # design:
 #   background:
 #       gradient_start: '#4bb4e3'
-#       gradient_end: '#2b94c3'
+#       gradient_end: '#2b94c3's
 #       gradient_angle: 180
 
 
