@@ -13,7 +13,7 @@ tags:
 title: Our project "IHABOT" accepted for the prestigious Centennial Research Grant.
 links:
   - icon_pack: fas
-    icon: scroll
+    icon: book
     name: project book
     url: 'https://drive.google.com/drive/folders/13lZBX-3y4UscUBQmNbJJQytok8YWgFwm'
 ---

@@ -62,7 +62,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    #theme_dark: dracula
     # theme_light: igor
     # theme_dark: nord
     enable: true
@@ -70,11 +70,11 @@ features:
       - r
       - latex
   math:
-    enable: true
+    enable: 
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/TahsinTariq/tahsintariq.github.io'
+    url: 'https://github.com/SwaksharDeb/swakshardeb.github.io'
     content_dir: content
     branch: master
   avatar:

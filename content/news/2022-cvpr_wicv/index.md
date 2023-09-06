@@ -12,7 +12,7 @@ tags:
 title: Our Undergraduation dissertation has been presented at CVPR'22, WiCV Workshop 
 links:
   - icon_pack: fas
-    icon: scroll
+    icon: file-powerpoint
     name: poster
     url: 'https://drive.google.com/file/d/1bsOee10F8qgEQ-7FkpPG5w1C8k0mKTji/view'
 ---

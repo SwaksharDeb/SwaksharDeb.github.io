@@ -23,7 +23,7 @@ organizations:
     url: https://rme.du.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master's Student studying Robotics and Mechatronics Engineering with a focus on Computer Vision.
+bio: I am a M.Sc Student studying Robotics and Mechatronics Engineering.
 
 # Interests to show in About widget
 interests:

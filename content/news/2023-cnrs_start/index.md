@@ -12,8 +12,8 @@ tags:
 title: Our Stroke Rehabilitation research project accepted for the goverment grant from ICT Ministry, Bangladesh 
 links:
   - icon_pack: fas
-    icon: scroll
-    name: project proposal
+    icon: file
+    name: proposal
     url: 'https://drive.google.com/file/d/1roHG3inG5sJ53BdIMXuYu_Ky602brItH/view?usp=sharing'
 ---
 In this project, I've been hired as a full time research assistant.

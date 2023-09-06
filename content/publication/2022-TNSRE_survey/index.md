@@ -22,5 +22,6 @@ links:
     url: 'https://github.com/TahsinTariq/GEMM'
 ---
 
-![gemm_architecture](https://user-images.githubusercontent.com/62146852/232325513-e9de077e-49d3-4ce0-b090-6360054c55ca.png)
-<p style="text-align:center"> Figure. The GEMM Architecture </p>
+![gemm_architecture](/img/rehab_survey.PNG)
+<p style="text-align:center"> Figure: A comparative overview between traditional vs automated
+post-stroke rehabilitation systems. </p>
