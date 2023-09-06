@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Tahsin Tariq Banna # Website name
+title: Swakshar Deb # Website name
 baseURL: 'https://swakshardeb.github.io/' # Website URL
 
 ############################
