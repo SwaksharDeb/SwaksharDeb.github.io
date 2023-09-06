@@ -11,10 +11,10 @@ summary: I've been hired as a full time research assistant under Dr. Sejuti Rahm
 tags:
 - Job
 title: Research Assistantship Under Dr. Sejuti Rahman. 
-# links:
-#   - icon_pack: fas
-#     icon: scroll
-#     name: project proposal
-#     url: 'https://drive.google.com/file/d/1roHG3inG5sJ53BdIMXuYu_Ky602brItH/view?usp=sharing'
+links:
+  - icon_pack: fas
+    icon: scroll
+    name: Dr. Sejuti Rahman
+    url: 'https://www.du.ac.bd/faculty/faculty_details/RME/2150'
 ---
 I've been hired as a full time research assistant under Dr. Sejuti Rahmna.
