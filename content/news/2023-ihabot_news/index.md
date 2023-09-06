@@ -17,4 +17,4 @@ links:
     name: project book
     url: 'https://drive.google.com/drive/folders/13lZBX-3y4UscUBQmNbJJQytok8YWgFwm'
 ---
-Very fortunate to be a part of the IHABOT project, where I was in a team that designed an interactive human-computer interface that collects the RGBD data of the rehabilitation patients with Microsoft Kinectv2 and provide real-time exercise correctness score
+Very fortunate to be a part of the IHABOT project, where I was in a team that designed an interactive human-computer interface that collects the RGBD data of the rehabilitation patients with Microsoft Kinectv2 and provide real-time exercise correctness score.
