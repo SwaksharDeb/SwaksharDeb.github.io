@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sentiment Analysis | Swakshar Deb</title><link>https://swakshardeb.github.io/tag/sentiment-analysis.html</link><atom:link href="https://swakshardeb.github.io/tag/sentiment-analysis/index.xml" rel="self" type="application/rss+xml"/><description>Sentiment Analysis</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://swakshardeb.github.io/media/logo_hu05f0f36ce171b899b64ba629782702e3_51428_300x300_fit_lanczos_3.png</url><title>Sentiment Analysis</title><link>https://swakshardeb.github.io/tag/sentiment-analysis.html</link></image><item><title>Data-augmentation for Bangla-English Code-Mixed Sentiment Analysis: Enhancing Cross Linguistic Contextual Understanding</title><link>https://swakshardeb.github.io/publication/2023-nlp_access.html</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/publication/2023-nlp_access.html</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../../../static/img/nlp.PNG" alt="gemm_architecture" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="../../img/nlp.PNG" alt="gemm_architecture" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p style="text-align:center"> Figure. (a) Proposed data augmentation process with multiple sampling rates. For simplicity, we only showed sampling rate 1 and 2 in the above diagram. (b) Illustration of word embedding training process. We augment input data with several sampling rate.
