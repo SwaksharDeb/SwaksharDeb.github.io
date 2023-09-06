@@ -25,6 +25,6 @@ links:
     url: 'https://www.youtube.com/playlist?list=PLtuJaRV_ofJArtjv6UVxIefFItN3BG8iw'
 ---
 
-![Rehab Architecture](../../../static/img/stgcn_architecture.PNG)
+![Rehab Architecture](/img/stgcn_architecture.PNG)
 
 <p style="text-align:center"> Figure. GCN based end-to-end models using (a-b) vanilla STGCN and (c-d) extended STGCN for rehabilitation exercise assessment. </p>
