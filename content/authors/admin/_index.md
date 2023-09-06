@@ -33,13 +33,13 @@ interests:
 
 # Education to show in About widget
 education:
-  Degree:
-    - B.Sc: Robotics and Mechatronics Engineering
+  courses:
+    - course: B.Sc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2017-2021
-    - M.Sc: Robotics and Mechatronics Engineering
+      year: 2021
+    - course: M.Sc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2022-2023
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,7 +71,7 @@ social:
     link: files/cv/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'swakshar.sd@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -79,7 +79,7 @@ highlight_name: true
 
 <!-- **About me** -->
 
-**About me**
+# Welcome
 
 I'm  a graduate student from the Robotics and Mechatronics Engineering at the University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is focused on graph machine learning and computer vision. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of computer vison. 
 
