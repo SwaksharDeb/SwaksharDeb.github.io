@@ -90,8 +90,5 @@ cascade:
   - _target:
       path: /publication/**
     share: false
-  - _target:
-      path: /news/**
-    share: false
-
+    
 lastmod: [":fileModTime", “:default”]
