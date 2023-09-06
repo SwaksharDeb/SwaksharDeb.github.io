@@ -13,8 +13,8 @@ title: I have successfuly defended my M.Sc Thesis
 links:
   - icon_pack: fas
     icon: scroll
-    name: LIPhy
-    url: 'https://liphy.univ-grenoble-alpes.fr/'
+    name: M.Sc. Thesis Book
+    url: 'https://drive.google.com/file/d/1zC25Aa1AUdb0Nx130DVzreLP8mHYM6yf/view'
 ---
 **Topic.** The title of my M.Sc. thesis was **" Empowering Graph Wavelet Convolution for
 Node Classification: A Novel Approach with
