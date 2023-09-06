@@ -9,7 +9,7 @@ slides: example
 summary: Our paper "Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises" will be presented at *CVPR'22*, *WiCV Workshop*.
 tags:
 - Personal
-title: Our Undergraduation dissertation will be presented at CVPR'22, WiCV Workshop 
+title: A part of my undergraduate dissertation project will be presented at CVPR'22, WiCV Workshop 
 links:
   - icon_pack: fas
     icon: file-powerpoint

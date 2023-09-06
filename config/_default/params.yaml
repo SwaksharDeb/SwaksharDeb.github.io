@@ -70,7 +70,7 @@ features:
       - r
       - latex
   math:
-    enable: 
+    enable: true
   privacy_pack:
     enable: false
   repository:

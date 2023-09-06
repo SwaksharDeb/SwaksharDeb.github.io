@@ -25,7 +25,7 @@ main:
     url: '/files/cv/cv.pdf'
     weight: 70
   
-# Sub-home menu
+# Sub-home menu:
 #  - name: About
 #    url: '#about'
 #    parent: " "
@@ -46,6 +46,10 @@ main:
 #    url: '#contact'
 #    parent: " "
 #    weight: 90
+# - name: Experiences
+#   url: '#experience'
+#   parent: " "
+#   weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

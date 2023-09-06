@@ -27,9 +27,9 @@ bio: I am a M.Sc Student studying Robotics and Mechatronics Engineering.
 
 # Interests to show in About widget
 interests:
-  - Generative Art
-  - Games
-  - Computer simulations
+  - Graph Signal Processing
+  - Graph Neural Networks
+  - Computer Vison
 
 # Education to show in About widget
 education:
@@ -79,10 +79,27 @@ highlight_name: true
 
 <!-- **About me** -->
 
-# Hi, I'm Swakshar,
+**About me**
+
 I'm  a graduate student from the Robotics and Mechatronics Engineering at the University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is focused on graph machine learning and computer vision. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of computer vison. 
 
-I'm currently reading [Coordinate Independent Convolutional Networks](https://arxiv.org/pdf/2106.06020.pdf), which infactuated a fascination towards Geometric Deep Learning within me. I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
+I'm currently reading [Coordinate Independent Convolutional Networks](https://arxiv.org/pdf/2106.06020.pdf), which infatuated a fascination towards Geometric Deep Learning within me.  I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
+
+<!-- **Research Interest**
+
+* Graph Signal Processing
+* Graph Machine Learning
+* Computer Vison -->
+
+<!-- My research is focused on graph machine learning and computer vision. I'm currently reading [Coordinate Independent Convolutional Networks](https://arxiv.org/pdf/2106.06020.pdf), which infatuated a fascination towards Geometric Deep Learning within me.  -->
+<!-- **Education**
+  
+  * B.Sc: Robotics and Mechatronics Engineering
+      - institution: University of Dhaka, Bangladesh
+      - year: 2017-2021
+   * M.Sc: Robotics and Mechatronics Engineering
+      - institution: University of Dhaka, Bangladesh
+      - year: 2022-2023 -->
 
 <!-- **Open source and open data**
 
