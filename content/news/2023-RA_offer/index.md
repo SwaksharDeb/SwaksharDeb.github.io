@@ -6,7 +6,8 @@ image:
   caption: DU logo
   focal_point: Smart
 slides: example
-summary: I will be mainly working on the separation of fluid mixture using soft matter membrane, in LiPhy, Grenoble.
+summary: I've been hired as a full time research assistant under Dr. Sejuti Rahmna.
+
 tags:
 - Job
 title: Research Assistantship Under Dr. Sejuti Rahman. 
