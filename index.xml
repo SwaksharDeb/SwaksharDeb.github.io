@@ -9,39 +9,12 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>PhD Position Available in LiPhy (Grenoble, France)</title><link>https://swakshardeb.github.io/news/2023-phd-offer.html</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-phd-offer.html</guid><description>&lt;p>&lt;strong>Scope.&lt;/strong> With the goal to reach carbon neutrality by 2050, direct air capture (DAC) of CO2 from wet flue
-gases is one brick of the carbon mitigation strategy – especially with the next generation of solid porous
-sorbents based on Metal-Organic Frameworks (MOF). While thermodynamics of the CO2 capture is well
-documented in the literature, little is known about molecular diffusion and transport properties in MOF
-angstropores (in particular, in the presence of environmental humidity). Also, diffusion through pore scales
-of the applicative sorbing medium, ranging from nanopores (pore diameter ~nm) to macropores (&amp;gt; 50 nm)
-and beyond remain open. In order to fill the gap and gain insight into multiscale transport properties and
-try to figure CO2 capture optimization through MOF based sorbents, we ambition to develop a multiscale
-approach based on a lattice model fed by molecular simulations.&lt;/p>
-&lt;p>In more detail, the objective of this PhD proposal is two-fold. i. Using molecular simulations [e.g. Magnin
-et al. J. Phys. Chem. C 2022], we aim to unravel the molecular phenomena that govern the thermodynamic
-and kinetic mechanisms when capturing CO2 using a multi-scale porous material. With this first aspect,
-we aim to rationalize the use of nanoporous materials for practical engineering processes by developing
-a robust and general methodology to link physico-chemical properties at different scales. ii. Using a
-bottom-up strategy, we will upscale the results obtained using atomistic simulations to mimic phase
-separation and transport of CO2/N2/H2O mixtures at the macroscale. To do so, a simple yet realistic lattice
-model [Botan et al. Phys. Rev. E 2015], which can be seen as a pore network model accounting for the
-change of the local thermodynamic/transport properties in a kinetic engineering process (e.g. Pressure
-Swing Adsorption), will be used.&lt;/p>
-&lt;p>&lt;strong>Potential candidate.&lt;/strong> The PhD candidate should have a background in physics, physical
-chemistry/chemical physics or materials science. He/she should also have some experience in scientific
-programming and a background in statistical mechanics (including if possible Monte Carlo or/and
-Molecular Dynamics).&lt;/p>
-&lt;p>&lt;strong>Practical aspects.&lt;/strong> The position is available starting January 2024 and lasts for 36 months. The PhD student
-will work under the supervision of Benoit Coasne/Simon Gravelle (LIPhy, Grenoble) and Yann Magnin
-(CSTJF, Pau). He/she will be located at LIPhy in Grenoble, France but several short stays in CSTJF in
-Pau, France will be planned. Applicants should provide a CV, a letter of motivation and the names and
-email addresses of 2 or 3 references to:&lt;/p>
-&lt;ul>
-&lt;li>Yann Magnin (yann.magnin at totalenergies.com)&lt;/li>
-&lt;li>Benoit Coasne (benoit.coasne at univ-grenoble-alpes.fr)&lt;/li>
-&lt;li>Simon Gravelle (simon.gravelle at univ-grenoble-alpes.fr)&lt;/li>
-&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>I have successfuly defended my M.Sc Thesis</title><link>https://swakshardeb.github.io/news/2023-phd-offer.html</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-phd-offer.html</guid><description>&lt;p>&lt;strong>Topic.&lt;/strong> The title of my M.Sc. thesis was &amp;quot; Empowering Graph Wavelet Convolution for
+Node Classification: A Novel Approach with
+Local Lifting Scheme&amp;quot;. In this thesis work we focused to the phenomenon of production of undesirable wavelet filters within graph wavelet based neural networks.&lt;/p>
+&lt;p>&lt;strong>Summary.&lt;/strong> Wavelet-based graph neural networks have received increasing attention in various graph machine learning tasks. However, in node classification, existing graph wavelet-based methods are limited in their ability to generalize to arbitrary graphs due to their implementation of predefined wavelet filters with inherent homophilic assumptions while ignoring heterophily. Recent studies have attempted to address this issue through a wavelet lifting transform that requires the bipartite graph, therefore, altering the graph topology, and leading to undesirable wavelet filters. In this thesis, we introduce a novel class of graph wavelet neural network based on our proposed tree-lifting scheme that is able to learn adaptive wavelet filters over arbitrary graphs. Our proposed generalized adaptive graph wavelet network (GA-GWNN) preserves the graph topology through computation trees while implementing the lifting scheme on arbitrary graph structures. Additionally, we concentrate on the local substructure as an acyclic tree while implementing the lifting strategy locally. Moreover, this locally defined lifting scheme incorporates and fuses both high-pass and low-pass frequency components to enhance the feature representation. We further benchmark our proposed GA-GWNN model with three homophilic datasets (Cora, Citeseer, PubMed), and four heterophilic datasets (Film, Cornell, Texas, Wisconsin) and to demonstrate the scalability of our proposed GA-GWNN we evaluated our model on two large-scale datasets namely, Ogbn-Arxiv and Ogbn-Products. In addition, we further introduce a more scaleable and computationally efficient version of GA-GWNN, namely simple and efficient adaptive graph wavelet neural network (SEA-GWNN).
+SEA-GWNN incorporates higher-order neighborhoods to extract multiscale information and implements the lifting scheme without the need for an inverse transform. Additionally, SEA-GWNN introduces an attention detachment strategy, enabling the computation of attention parameters only once and re-utilizing them in successive layers, thus making SEA-GWNN more scalable compared to GA-GWNN. Finally, we benchmark this proposed SEA-GWNN on nine real-world homophilic and heterophilic datasets from three categories (i.e., citation, webpage, and film industry graphs) and four large-scale graphs, including Ogbn-Arxiv, Arxiv, Genius, and Penn94. The experimental results from these datasets demonstrate the effectiveness of our method.&lt;/p>
+&lt;p>&lt;strong>Future Direction.&lt;/strong> This work presents Generalized Adaptive Wavelet Network that extends the vanilla lifting scheme on any arbitrary graph thus producing an adaptive graph wavelet based on the signal residing on the graph. &lt;em>(1)&lt;/em> Extending the work on this topic is an attempt to further reduce the computation cost associated with tree lifting structures. This approach will result in a more fine-grained rehab system. &lt;em>(2)&lt;/em> One can generalize the proposed framework into many other sectors. For example, the novelty of our framework also can be extended to human activity recognition, augmented reality, gaming, driving, etc. where designing wavelet filters based on the task at hand is crucial. &lt;em>(3)&lt;/em> Taking one step further, one can extend this proposed fusion model with a learnable aggregation function, where instead of aggregating with a fixed set of edge weights (fixed normalized adjacency matrix), one can learn these edge weights with an attention-based network. But one needs to be careful about the over-parametrization of the entire framework. &lt;em>(4)&lt;/em> From the theoretical viewpoint, one can further study the effect of over-smoothing on our proposed network. This may result in further analysis of the effect of our two-channel filter bank that was learned through successive lifting structures. This can be observed with the help of the node profile, that analysis the node behavior at each layer.&lt;/p>
 &lt;p>More information:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://benoitcoasne.github.io/" target="_blank" rel="noopener">https://benoitcoasne.github.io/&lt;/a> (Coasne’s research group website)&lt;/li>
