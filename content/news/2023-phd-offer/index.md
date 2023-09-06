@@ -8,7 +8,7 @@ image:
 slides: example
 summary: CO2 Capture Using Nanoporous Adsorbents -- A Multiscale Numerical Approach From Molecular Aspects to the Engineering Scale
 tags:
-- Job
+- Personal
 title: I have successfuly defended my M.Sc Thesis
 links:
   - icon_pack: fas
