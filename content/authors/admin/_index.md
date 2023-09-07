@@ -2,10 +2,10 @@
 
 
 # Display name
-# title: Swakshar Deb
-# # Full name (for SEO)
-# first_name: Swakshar 
-# last_name: Deb
+title: Swakshar Deb
+# Full name (for SEO)
+first_name: Swakshar 
+last_name: Deb
 
 # Status emoji
 status:
@@ -34,12 +34,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Sc in Robotics and Mechatronics Engineering
-      institution: University of Dhaka, Bangladesh
-      year: 2017-2022
     - course: M.Sc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2022-2023
+      year: 2022-present
+    - course: B.Sc in Robotics and Mechatronics Engineering
+      institution: University of Dhaka, Bangladesh
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +74,7 @@ social:
 email: 'swakshar.sd@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 <!-- **About me** -->

@@ -17,4 +17,4 @@ links:
     name: Dr. Sejuti Rahman
     url: 'https://www.du.ac.bd/faculty/faculty_details/RME/2150'
 ---
-I've been hired as a full time research assistant under Dr. Sejuti Rahmna.
+I've been hired as a full time research assistant under Dr. Sejuti Rahman.
