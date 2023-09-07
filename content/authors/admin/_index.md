@@ -36,10 +36,10 @@ education:
   courses:
     - course: B.Sc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2022
+      year: 2017-2022
     - course: M.Sc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2023
+      year: 2022-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
