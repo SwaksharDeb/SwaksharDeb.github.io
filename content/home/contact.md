@@ -17,6 +17,13 @@ content:
 
   # Contact details (edit or remove options as required)
   email: swakshar.sd@gmail.com
+  phone: +880 1797 574820
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: Twitter
+      link: 'https://twitter.com/SwaksharDeb'
+
 
 design:
   columns: '2'

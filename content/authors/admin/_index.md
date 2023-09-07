@@ -15,12 +15,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Masters Student
+# role: Masters Student
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Department of Robotics and Mechatronics Engineering
-    url: https://rme.du.ac.bd/
+# # Organizations/Affiliations to show in About widget
+# organizations:
+#   - name: Department of Robotics and Mechatronics Engineering
+#     url: https://rme.du.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a M.Sc Student studying Robotics and Mechatronics Engineering.
@@ -74,7 +74,7 @@ social:
 email: 'swakshar.sd@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 <!-- **About me** -->
