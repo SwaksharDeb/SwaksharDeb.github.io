@@ -2,10 +2,10 @@
 
 
 # Display name
-title: Swakshar Deb
-# Full name (for SEO)
-first_name: Swakshar 
-last_name: Deb
+# title: Swakshar Deb
+# # Full name (for SEO)
+# first_name: Swakshar 
+# last_name: Deb
 
 # Status emoji
 status:
