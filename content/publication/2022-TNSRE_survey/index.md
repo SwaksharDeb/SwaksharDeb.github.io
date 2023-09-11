@@ -16,10 +16,10 @@ links:
     icon: scroll
     name: Paper
     url: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9936658'
-  - icon_pack: ai
-    icon: open-data
-    name: Code
-    url: 'https://github.com/TahsinTariq/GEMM'
+  # - icon_pack: ai
+  #   icon: open-data
+  #   name: Code
+  #   url: 'https://github.com/TahsinTariq/GEMM'
 ---
 
 ![gemm_architecture](/img/rehab_survey.PNG)

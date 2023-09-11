@@ -23,7 +23,7 @@ superuser: true
 #     url: https://rme.du.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a M.Sc Student studying Robotics and Mechatronics Engineering.
+bio: I am a M.Sc Student in Robotics and Mechatronics Engineering.
 
 # Interests to show in About widget
 interests:
