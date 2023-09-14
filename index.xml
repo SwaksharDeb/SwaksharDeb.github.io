@@ -14,7 +14,16 @@ Node Classification: A Novel Approach with
 Local Lifting Scheme&amp;quot;&lt;/strong>. In this thesis work we focused to the phenomenon of production of undesirable wavelet filters within graph wavelet based neural networks and presented a solution framework to overcome this phenemonenon with with our proposed Tree Lifting Scheme.&lt;/p>
 &lt;p>&lt;strong>Summary.&lt;/strong> Wavelet-based graph neural networks have received increasing attention in various graph machine learning tasks. However, in node classification, existing graph wavelet-based methods are limited in their ability to generalize to arbitrary graphs due to their implementation of predefined wavelet filters with inherent homophilic assumptions while ignoring heterophily. Recent studies have attempted to address this issue through a wavelet lifting transform that requires the bipartite graph, therefore, altering the graph topology, and leading to undesirable wavelet filters. In this thesis, we introduce a novel class of graph wavelet neural network based on our proposed tree-lifting scheme that is able to learn adaptive wavelet filters over arbitrary graphs. Our proposed generalized adaptive graph wavelet network (GA-GWNN) preserves the graph topology through computation trees while implementing the lifting scheme on arbitrary graph structures. Additionally, we concentrate on the local substructure as an acyclic tree while implementing the lifting strategy locally. Moreover, this locally defined lifting scheme incorporates and fuses both high-pass and low-pass frequency components to enhance the feature representation. We further benchmark our proposed GA-GWNN model with three homophilic datasets (Cora, Citeseer, PubMed), and four heterophilic datasets (Film, Cornell, Texas, Wisconsin) and to demonstrate the scalability of our proposed GA-GWNN we evaluated our model on two large-scale datasets namely, Ogbn-Arxiv and Ogbn-Products. In addition, we further introduce a more scaleable and computationally efficient version of GA-GWNN, namely simple and efficient adaptive graph wavelet neural network (SEA-GWNN).
 SEA-GWNN incorporates higher-order neighborhoods to extract multiscale information and implements the lifting scheme without the need for an inverse transform. Additionally, SEA-GWNN introduces an attention detachment strategy, enabling the computation of attention parameters only once and re-utilizing them in successive layers, thus making SEA-GWNN more scalable compared to GA-GWNN. Finally, we benchmark this proposed SEA-GWNN on nine real-world homophilic and heterophilic datasets from three categories (i.e., citation, webpage, and film industry graphs) and four large-scale graphs, including Ogbn-Arxiv, Arxiv, Genius, and Penn94. The experimental results from these datasets demonstrate the effectiveness of our method.&lt;/p>
-&lt;p>&lt;strong>Future Direction.&lt;/strong> This work presents Generalized Adaptive Wavelet Network that extends the vanilla lifting scheme on any arbitrary graph thus producing an adaptive graph wavelet based on the signal residing on the graph. &lt;em>(1)&lt;/em> Extending the work on this topic is an attempt to further reduce the computation cost associated with tree lifting structures. This approach will result in a more fine-grained rehab system. &lt;em>(2)&lt;/em> One can generalize the proposed framework into many other sectors. For example, the novelty of our framework also can be extended to human activity recognition, augmented reality, gaming, driving, etc. where designing wavelet filters based on the task at hand is crucial. &lt;em>(3)&lt;/em> Taking one step further, one can extend this proposed fusion model with a learnable aggregation function, where instead of aggregating with a fixed set of edge weights (fixed normalized adjacency matrix), one can learn these edge weights with an attention-based network. But one needs to be careful about the over-parametrization of the entire framework. &lt;em>(4)&lt;/em> From the theoretical viewpoint, one can further study the effect of over-smoothing on our proposed network. This may result in further analysis of the effect of our two-channel filter bank that was learned through successive lifting structures. This can be observed with the help of the node profile, that analysis the node behavior at each layer.&lt;/p></description></item><item><title>AI-Driven Stroke Rehabilitation Systems and Assessment: A Systematic Review</title><link>https://swakshardeb.github.io/publication/2022-tnsre_survey.html</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/publication/2022-tnsre_survey.html</guid><description>&lt;p>
+&lt;p>&lt;strong>Future Direction.&lt;/strong> This work presents Generalized Adaptive Wavelet Network that extends the vanilla lifting scheme on any arbitrary graph thus producing an adaptive graph wavelet based on the signal residing on the graph. &lt;em>(1)&lt;/em> Extending the work on this topic is an attempt to further reduce the computation cost associated with tree lifting structures. This approach will result in a more fine-grained rehab system. &lt;em>(2)&lt;/em> One can generalize the proposed framework into many other sectors. For example, the novelty of our framework also can be extended to human activity recognition, augmented reality, gaming, driving, etc. where designing wavelet filters based on the task at hand is crucial. &lt;em>(3)&lt;/em> Taking one step further, one can extend this proposed fusion model with a learnable aggregation function, where instead of aggregating with a fixed set of edge weights (fixed normalized adjacency matrix), one can learn these edge weights with an attention-based network. But one needs to be careful about the over-parametrization of the entire framework. &lt;em>(4)&lt;/em> From the theoretical viewpoint, one can further study the effect of over-smoothing on our proposed network. This may result in further analysis of the effect of our two-channel filter bank that was learned through successive lifting structures. This can be observed with the help of the node profile, that analysis the node behavior at each layer.&lt;/p>
+&lt;p>More information:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1a_fMTVysP8ILVc0HPVmFYnWuky6WNLMm/edit?usp=sharing&amp;amp;ouid=111728215995985796007&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">M.Sc thesis defence presentation slides with animations&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Our paper "GEMM:A Graph Embedded Model for Memorability Prediction" is presented in IJCNN, 2023</title><link>https://swakshardeb.github.io/news/2023-ijcnn_presentation.html</link><pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-ijcnn_presentation.html</guid><description>&lt;p>Our paper titled &lt;strong>&amp;ldquo;GEMM:A Graph Embedded Model for Memorability Prediction&amp;rdquo;&lt;/strong>, is presented in the &lt;em>IJCNN, 2023&lt;/em>, Queensland, Australia. This paper introduced the image memorability prediction task from the graph centric viewpoint.&lt;/p>
+&lt;p>More information:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/abstract/document/10191500" target="_blank" rel="noopener">Our paper, &amp;ldquo;GEMM:A Graph Embedded Model for Memorability Prediction&amp;rdquo;&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/TahsinTariq/GEMM" target="_blank" rel="noopener">Code of our paper &amp;ldquo;GEMM:A Graph Embedded Model for Memorability Prediction&amp;rdquo;&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>AI-Driven Stroke Rehabilitation Systems and Assessment: A Systematic Review</title><link>https://swakshardeb.github.io/publication/2022-tnsre_survey.html</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/publication/2022-tnsre_survey.html</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="./img/rehab_survey.PNG" alt="gemm_architecture" loading="lazy" data-zoomable />&lt;/div>
@@ -48,13 +57,11 @@ post-stroke rehabilitation systems. &lt;/p></description></item><item><title>Dat
 &lt;p>Here, $V^u(\ldots, x^v+\Delta x^v, \ldots)$ is the $u$-th component of the vector field $V$ at point $(\ldots, x^v+\Delta x^v, \ldots)$ and $V^u(\ldots, x^v, \ldots)$ is the $u$-th component of that vector field, $V$, at point $x$. To substract $V^u(x)$ from $V^u(x+\Delta x)$, we have to transport $V^u(x)$ to the point $x+\Delta x$ without change and compute the difference. This transport of a vector is called a &lt;em>Parallel Transport&lt;/em>.&lt;/p>
 &lt;p>&lt;strong>Definition&lt;/strong>: Parallel transport maps a vector $X$ at point $p$ that lives on a vector space $T_{p}M$ to a vector $Y$ at point $q$ that lives on a vector space $T_{q}M$, mathematically represented as $X \in T_{p}M \to Y \in T_{q}M$.&lt;/p>
 &lt;p>Intituively, this definition of the parallel transport represents the corresponding vector of $X \in T_pM$ in the vector space $T_qM$. Bascially it is a way of moving a vector over the manifold $M$.&lt;/p>
-&lt;p>While defining this parallel transport, we have implicitly assumed that $V\vert_x$ parallel transported to $x+\Delta x$ has the same component $V^{u}(x)$. However, there is no natural way to parallel transport a vector in a manifold and we have to specify &lt;em>&amp;ldquo;how it is parallel transported&amp;rdquo;&lt;/em> from one point to other. Let $\tilde{V}\vert_{x+\Delta x}$ denote a vector $V\vert_x$ parallel transported to $x+\Delta x$. We demand that the components satisfy:&lt;/p>
-&lt;p>$$
-\begin{align}
-\tilde{V}^{u}(x+\Delta x) - V^u(x) &amp;amp;\propto \Delta x \nonumber \
-\widetilde{(V^u + W^u)}(x+\Delta x) &amp;amp;= \tilde{V}(x+\Delta x) + \tilde{W}^u(x+\Delta x) \nonumber
-\end{align}
-$$&lt;/p>
+&lt;p>While defining this parallel transport, we have implicitly assumed that $V\vert_x$ parallel transported to $x+\Delta x$ has the same component $V^{u}(x)$. However, there is no natural way to parallel transport a vector in a manifold and we have to specify &lt;em>&amp;ldquo;how it is parallel transported&amp;rdquo;&lt;/em> from one point to other. Let $\tilde{V}\vert_{x+\Delta x}$ denote a vector $V\vert_x$ parallel transported to $x+\Delta x$. We demand that the components satisfy:
+$$\tilde{V}^{u}(x+\Delta x) - V^u(x) \propto \Delta x$$
+$$\widetilde{(V^u + W^u)}(x+\Delta x) = \tilde{V}(x+\Delta x) + \tilde{W}^u(x+\Delta x)$$&lt;/p>
+&lt;!-- $$\tilde{V}^{u}(x+\Delta x) - V^u(x) &amp;\propto \Delta x $$ -->
+&lt;!-- \widetilde{(V^u + W^u)}(x+\Delta x) &amp;= \tilde{V}(x+\Delta x) + \tilde{W}^u(x+\Delta x) \nonumber -->
 &lt;p>These condition are satisfy if we take:
 $$
 \begin{align}
@@ -63,24 +70,20 @@ $$
 $$&lt;/p>
 &lt;p>where, $x^v=x^v\vert_{x+\Delta x} - \tilde{x}^v\vert_{x+\Delta x}$. The covariant derivative of a vector with respect to $x^v$ is defined by:
 $$
-\begin{align}
-&amp;amp;\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-\tilde{V}^u(x+\Delta x)}{\Delta x^v} \frac{\partial}{\partial x^u} \nonumber \&lt;/p>
-&lt;p>&amp;amp;=\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-V^u(x)-V^{\lambda}(x)\Gamma^{u}_{v\lambda}\Delta x^v}{\Delta x^v} \frac{\partial}{\partial x^u} \nonumber \&lt;/p>
-&lt;p>&amp;amp;=(\frac{\partial V^u}{\partial x^v} + V^{\lambda}\Gamma_{v\lambda}^u) \frac{\partial}{\partial x^u} \nonumber \&lt;/p>
+\begin{align*}
+&amp;amp;\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-\tilde{V}^u(x+\Delta x)}{\Delta x^v} \frac{\partial}{\partial x^u} \&lt;/p>
+&lt;p>&amp;amp;=\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-V^u(x)-V^{\lambda}(x)\Gamma^{u}_{v\lambda}\Delta x^v}{\Delta x^v} \frac{\partial}{\partial x^u} \&lt;/p>
+&lt;p>&amp;amp;=(\frac{\partial V^u}{\partial x^v} + V^{\lambda}\Gamma_{v\lambda}^u) \frac{\partial}{\partial x^u} \&lt;/p>
 &lt;p>&amp;amp;= (\nabla_{\frac{\partial}{\partial x^v}} V)^u
-\end{align}
+\end{align*}
 $$&lt;/p>
 &lt;p>Here, $(\nabla_{e_v} V)^u$ represents the $u$-th component of the covariant derivative along the $e_v$ direaction at point $x+\Delta x$ and the $\nabla$ denotes &lt;em>connection&lt;/em>, which will be covered later. The quantity in Eqn $(2)$ is a vector at $x+\Delta x$ since, it is a difference of two vectors $V\vert_{x+\Delta x}$ and $\tilde{V}\vert_{x+\Delta x}$ defined at the same point $x+\Delta x$. There are many distinct rules of parallel transport possible, one for each choice of $\Gamma$. If the manifold is endowed with the metric, there exist a predefined choice of $\Gamma$, called Levi Civita Connection.&lt;/p>
 &lt;h1 id="affine-connection">Affine Connection&lt;/h1>
 &lt;p>&lt;strong>Definition:&lt;/strong> An affine connection $\nabla$ is a map: $\chi (M) \times \chi(M) \to \chi(M)$, or $(X,Y) \to \nabla_{X}Y$ which satisfy the following conditions:
-$$
-\begin{align}
-&amp;amp;\nabla_{X}(Y+Z) = \nabla_{X}Y + \nabla_{X}Z \nonumber \
-&amp;amp;\nabla_{X+Y}(Z) = \nabla_{X}Z + \nabla_{Y}Z \nonumber \
-&amp;amp;\nabla_{fX}(Y) = f \nabla_{X}Y \nonumber \
-&amp;amp;\nabla_{X}(fY) = X[f]Y + f\nabla_{X}Y \nonumber
-\end{align}
-$$
+$$\nabla_{X}(Y+Z) = \nabla_{X}Y + \nabla_{X}Z$$
+$$\nabla_{X+Y}(Z) = \nabla_{X}Z + \nabla_{Y}Z$$
+$$\nabla_{fX}(Y) = f \nabla_{X}Y $$
+$$\nabla_{X}(fY) = X[f]Y + f\nabla_{X}Y $$
 where, $f \in C^{\infty}(M)$, $\chi(M)$ denotes vector field and $X,Y,Z \in \chi(M)$.&lt;/p>
 &lt;p>Take a chart $(U,\phi)$ with the condition $x=\phi(p)$ on $M$, and define $\Gamma_{uv}^\lambda$ called the connection coefficients by:&lt;/p>
 &lt;p>$$\nabla_v e_u = \nabla_{e_v} e_u = \nabla_{\frac{\partial}{\partial x^v}} = e_{\lambda} \Gamma_{uv}^\lambda$$&lt;/p>
@@ -108,10 +111,10 @@ $$
 If the tangent vector $v(t)$ itself is parallel transported along $c(t)$, namely if
 $$\nabla_V V = 0$$
 the curve $c(t)$ is called geodesic. Geodesic are, in a sense, the straighest possible curves in a Reimenian manifold. In components, the geodesic equation becomes:&lt;/p>
-&lt;p>$$\frac{d^2x^u}{dt^2} + \Gamma^u_{v\lambda} \frac{dx^v}{dt} \frac{dx^{\lambda}}{dt} = 0$$&lt;/p></description></item><item><title>Our project "IHABOT" accepted for the prestigious Centennial Research Grant</title><link>https://swakshardeb.github.io/news/2023-ihabot_news.html</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-ihabot_news.html</guid><description>&lt;p>Very fortunate to be a part of the IHABOT project, where I was in a team that designed an interactive human-computer interface that collects the RGBD data of the rehabilitation patients with Microsoft Kinectv2 and provide real-time exercise correctness score.&lt;/p></description></item><item><title>Actions, not gestures: contextualising embodied controller interactions in immersive virtual reality</title><link>https://swakshardeb.github.io/example/2021-ratcliffe-et-al-actions.html</link><pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2021-ratcliffe-et-al-actions.html</guid><description/></item><item><title>Not Very Effective: Validity Issues of the Effectance in Games Scale</title><link>https://swakshardeb.github.io/example/2021-ballou-et-al-not-very-effective.html</link><pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2021-ballou-et-al-not-very-effective.html</guid><description/></item><item><title>A part of my undergraduate dissertation project will be presented at CVPR'22, WiCV Workshop</title><link>https://swakshardeb.github.io/news/2022-cvpr_wicv.html</link><pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2022-cvpr_wicv.html</guid><description>&lt;p>Our paper titled &amp;ldquo;Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises&amp;rdquo;, will be presented in the &lt;em>CVPR'22&lt;/em>, &lt;em>WiCV Workshop&lt;/em>, New Orleans, Louisiana. This paper is a part of my undergraduate dissertation project.&lt;/p>
+&lt;p>$$\frac{d^2x^u}{dt^2} + \Gamma^u_{v\lambda} \frac{dx^v}{dt} \frac{dx^{\lambda}}{dt} = 0$$&lt;/p></description></item><item><title>Our project "IHABOT" accepted for the prestigious Centennial Research Grant</title><link>https://swakshardeb.github.io/news/2023-ihabot_news.html</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-ihabot_news.html</guid><description>&lt;p>Very fortunate to be a part of the IHABOT project, where I was in a team that designed an interactive human-computer interface that collects the RGBD data of the rehabilitation patients with Microsoft Kinectv2 and provide real-time exercise correctness score.&lt;/p></description></item><item><title>Actions, not gestures: contextualising embodied controller interactions in immersive virtual reality</title><link>https://swakshardeb.github.io/example/2021-ratcliffe-et-al-actions.html</link><pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2021-ratcliffe-et-al-actions.html</guid><description/></item><item><title>Not Very Effective: Validity Issues of the Effectance in Games Scale</title><link>https://swakshardeb.github.io/example/2021-ballou-et-al-not-very-effective.html</link><pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2021-ballou-et-al-not-very-effective.html</guid><description/></item><item><title>Our paper "Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises" is presented in CVPR'22, WiCV Workshop</title><link>https://swakshardeb.github.io/news/2022-cvpr_wicv.html</link><pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2022-cvpr_wicv.html</guid><description>&lt;p>Our paper titled &lt;strong>&amp;ldquo;Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises&amp;rdquo;&lt;/strong>, is presented in the &lt;em>CVPR'22&lt;/em>, &lt;em>WiCV Workshop&lt;/em>, New Orleans, Louisiana. This paper is a part of my undergraduate dissertation project.&lt;/p>
 &lt;p>More information:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://drive.google.com/drive/folders/13lZBX-3y4UscUBQmNbJJQytok8YWgFwm" target="_blank" rel="noopener">https://drive.google.com/drive/folders/13lZBX-3y4UscUBQmNbJJQytok8YWgFwm&lt;/a> (Undergrate Project Disertation Book)&lt;/li>
+&lt;li>&lt;a href="https://drive.google.com/drive/folders/13lZBX-3y4UscUBQmNbJJQytok8YWgFwm" target="_blank" rel="noopener">https://drive.google.com/drive/folders/13lZBX-3y4UscUBQmNbJJQytok8YWgFwm&lt;/a> (Undergrate Project Dissertation Book)&lt;/li>
 &lt;li>&lt;a href="https://github.com/SwaksharDeb/STGN-for-Rehabilitation" target="_blank" rel="noopener">https://github.com/SwaksharDeb/STGN-for-Rehabilitation&lt;/a> (Code)&lt;/li>
 &lt;/ul></description></item><item><title>Our stroke rehabilitation research project is accepted for the goverment grant from ICT Ministry, Bangladesh</title><link>https://swakshardeb.github.io/news/2023-cnrs_start.html</link><pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-cnrs_start.html</guid><description>&lt;p>In this project, I&amp;rsquo;ve been hired as a full time research assistant.&lt;/p></description></item><item><title>Are You Open? A Content Analysis of Transparency and Openness Guidelines in HCI Journals</title><link>https://swakshardeb.github.io/example/2021-ballou-et-al-are-you-open.html</link><pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2021-ballou-et-al-are-you-open.html</guid><description/></item><item><title>The Hidden Intricacy of Loot Box Design: A Granular Description of Random Monetized Reward Features</title><link>https://swakshardeb.github.io/example/2020-ballou-et-al-hidden.html</link><pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2020-ballou-et-al-hidden.html</guid><description/></item><item><title>Eight-Puzzle Game</title><link>https://swakshardeb.github.io/blog/eight-puzzle-game.html</link><pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/blog/eight-puzzle-game.html</guid><description>&lt;p>This is a JavaScript implementation of the classic 8-puzzle game. I&amp;rsquo;ve also built in an AI to solve the puzzle if you are stuck.&lt;/p>
 &lt;h3 id="features">Features&lt;/h3>
@@ -283,104 +286,7 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
 &lt;img src="./media/albums/artworks/ComfyUI_00029__hu4b2cbb9f7b260be52d9f263b28eb7bc7_1742824_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="ComfyUI_00029_.png" width="750" height="421">
 &lt;/a>
 &lt;/div>
-&lt;/div> --></description></item><item><title>The relationship between mental well-being and dysregulated gaming: A specification curve analysis of five gaming disorder scales</title><link>https://swakshardeb.github.io/example/2020-ballou-van-rooij-relationship.html</link><pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2020-ballou-van-rooij-relationship.html</guid><description/></item><item><title>Research Assistantship Under Dr. Sejuti Rahman</title><link>https://swakshardeb.github.io/news/2023-ra_offer.html</link><pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-ra_offer.html</guid><description>&lt;p>I&amp;rsquo;ve been hired as a full time research assistant under Dr. Sejuti Rahman.&lt;/p></description></item><item><title>The Changing Face of Desktop Video Game Monetisation: An Exploration of Trends in Loot Boxes, Pay to Win, and Cosmetic Microtransactions in the Most-Played Steam Games of 2010-2019</title><link>https://swakshardeb.github.io/example/2019-zendle-et-al-changing-face.html</link><pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2019-zendle-et-al-changing-face.html</guid><description/></item><item><title>Procedural Terrain Generation</title><link>https://swakshardeb.github.io/blog/terrain-generation.html</link><pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/blog/terrain-generation.html</guid><description>&lt;h3 id="introduction">Introduction&lt;/h3>
-&lt;p>Creating a terrain manually for a game or just for visualization purposes is a really daunting task. Instead, a better way to do so is to programmatically generate it by passing some parameters to a code. Here, I discuss how to make a procedural terrain generator mostly using processing for python. This can also be done in any other language or game engine or 3D design software. I will be making a simple terrain using height maps for stylized purposes. But, first we need to understand how to generate height maps using perlin noise.&lt;/p>
-&lt;p>Perlin noise is a procedurally generated noise texture developed by ken perlin. How perlin noise is generated using code is discussed thoroughly &lt;strong>&lt;a href="https://rtouti.github.io/graphics/perlin-noise-algorithm" target="_blank" rel="noopener">here&lt;/a>&lt;/strong>. I&amp;rsquo;ll be using the built in noise function that generates perlin noise for processing.&lt;/p>
-&lt;h3 id="generating-sample-points">Generating sample points&lt;/h3>
-&lt;p>In order to render the terrain, we need some geometry. We can generate tile the plane with cubes, but that would look more like minecraft. We could choose randomly generated points. But purely random or even pseudo-random choices have a tendency of clustering together. This phenomenon is known as &lt;a href="https://en.wikipedia.org/wiki/Poisson_clumping" target="_blank" rel="noopener">&lt;code>Poisson Clumping&lt;/code>&lt;/a>. Pure or pseudo-random points are not good choices because of this phenomenon, as shown below.&lt;/p>
-&lt;!-- ![Random points](/img/random.png) -->
-&lt;figure id="figure-generated-random-points-tend-to-cluster-together">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./img/random.png" alt="Generated random points tend to cluster together." loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
-Generated random points tend to cluster together.
-&lt;/figcaption>&lt;/figure>
-&lt;p>So, instead we use a different sort of random point generation called &lt;strong>&lt;a href="https://en.wikipedia.org/wiki/Supersampling#Poisson_disk" target="_blank" rel="noopener">&lt;code>Poisson Disc Sampling&lt;/code>&lt;/a>&lt;/strong>. This generates random points at a given interval and thus making them more uniform. This is a much better choice for generating terrains.&lt;/p>
-&lt;p>Now if we triangulate the points,We should get a plane with enough geometry to offset using the generated height map. I go into some details on triangulation &lt;a href="https://tahsintariq.github.io/triangulation" target="_blank" rel="noopener">&lt;code>here&lt;/code>&lt;/a>. The final result should look something like this (without the animation of course):&lt;/p>
-&lt;div class="videoWrapper">
-&lt;iframe
-src="https://tahsintariq.github.io/p5js/P5_Sketches/P5_Web_Collection/Delunay_triangulation"
-data-position="center center">
-&lt;/iframe>
-&lt;/div>
-&lt;h3 id="creating-a-rough-3d-terrain">Creating a rough 3D terrain&lt;/h3>
-&lt;p>Now we rotate the canvas on the y-axis so it looks more like a plane.&lt;/p>
-&lt;!-- ![Random Plane](/img/random_plane.png) -->
-&lt;figure id="figure-the-entire-plane-rotated-along-the-y-axis-to-give-it-a-3d-look">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./img/random_plane.png" alt="The entire plane rotated along the Y-axis to give it a 3D look" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
-The entire plane rotated along the Y-axis to give it a 3D look
-&lt;/figcaption>&lt;/figure>
-&lt;p>Now, using the generated height map, we offset the z-position of the points by the value corresponding to that x and y position in the height map. This gives us a stylized terrain.&lt;/p>
-&lt;!-- ![Terrain](/img/terrain.png) -->
-&lt;figure id="figure-a-generated-rough-terrain">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="./img/terrain.png" alt="A generated rough terrain" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
-A generated rough terrain
-&lt;/figcaption>&lt;/figure>
-&lt;p>We can change the shape of this terrain by changing the noise using offsets. This can result in traversing through the terrain as if we were flying on top of it, or changing the entire topology of the terrain. It will depend on how the noise is being offset.&lt;/p>
-&lt;p>I&amp;rsquo;ve put the processing.py codes for this project &lt;a href="https://github.com/TahsinTariq/Processing/tree/master/Pycessing/Perlin/Terrain_generation" target="_blank" rel="noopener">&lt;code>here&lt;/code>&lt;/a>.&lt;/p>
-&lt;h3 id="smoother-surfaces">Smoother surfaces&lt;/h3>
-&lt;p>The generated surface is still pretty low resolution and looks pointy. This can be solved in two ways. First, we can either increase the number of points from the poisson disk sampling process. The other method is using the &lt;a href="https://en.wikipedia.org/wiki/Catmull%E2%80%93Clark_subdivision_surface" target="_blank" rel="noopener">&lt;code>Catmull-Clark algorithm&lt;/code>&lt;/a>. This is a technique used in 3D computer graphics to represent curved surfaces by the specification of a coarser polygonal mesh and produced by a recursive algorithmic method.&lt;/p>
-&lt;p>Furthermore, the same process can be used to generate terrain in 3D modelling software. The Catmull-Clark algorithm can be used easily here as most software have built in support. The following demonstrates the improvements made while using the algorithm.&lt;/p>
-&lt;div style="display:flex">
-&lt;div style="flex:1;padding:0 1% 0 0">
-&lt;img src="./img/terrain_blend_1.png" alt="coarse" data-position="center center" />
-&lt;/div>
-&lt;div style="flex:1;padding:0 1% 0 0">
-&lt;img src="./img/terrain_blend_2.png" alt="subdivided" data-position="center center" />
-&lt;/div>
-&lt;/div>
-&lt;article class="grid" style="text-align: center;">
-The left image shows a coarse pointy surface, the right image shows a smooth, curved, subdivided surface
-and below is an animated terrain made in Blender 3D
-&lt;/article>
-&lt;video controls loop autoplay>
-&lt;source src="./img/terrain_vid.mp4">
-&lt;/video>
-&lt;h3 id="example-videos">Example videos&lt;/h3>
-&lt;p>Below are two different renders I&amp;rsquo;ve made using the processing.py. One with a half inverted render and the other colored according to the height of the points i.e. a topological height map.&lt;/p>
-&lt;style>
-*.videoWrapper {
-position: relative;
-width:100%;
-padding-bottom: 56.25%; /* 16:9 */
-height: 0;
-}
-video{
-display:grid;
-margin: auto;
-width:90%;
-height:90%;
-}
-*.videoWrapper iframe{
-position: absolute;
-margin:auto;
-top: 0; bottom: 0;
-left: 0; right: 0;
-text-align: center;
-width: 90%;
-height: 90%;
-}
-*.grid{
-display: grid;
-place-items:center;
-/* width: 100%; */
-}
-&lt;/style>
-&lt;style> iframe{ border: none; } &lt;/style>
-&lt;div class="videoWrapper">
-&lt;iframe src="https://www.youtube.com/embed/kLhleR4t7LQ" data-position="center center">
-&lt;/iframe>
-&lt;/div>
-&lt;div class="videoWrapper">
-&lt;iframe src="https://www.youtube.com/embed/-vS37cZq3B8" data-position="center center">
-&lt;/iframe>
-&lt;/div>
-&lt;!-- "https://www.youtube.com/embed/kLhleR4t7LQ" -->
-&lt;!-- "https://www.youtube.com/embed/-vS37cZq3B8" --></description></item><item><title>The Prevalence of Loot Boxes in Mobile and Desktop Games</title><link>https://swakshardeb.github.io/example/2019-zendle-et-al-prevalence.html</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2019-zendle-et-al-prevalence.html</guid><description/></item><item><title>Game of life in Rust</title><link>https://swakshardeb.github.io/project/game-of-life.html</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/project/game-of-life.html</guid><description>&lt;div class="container-lg">
+&lt;/div> --></description></item><item><title>The relationship between mental well-being and dysregulated gaming: A specification curve analysis of five gaming disorder scales</title><link>https://swakshardeb.github.io/example/2020-ballou-van-rooij-relationship.html</link><pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2020-ballou-van-rooij-relationship.html</guid><description/></item><item><title>Research Assistantship Under Dr. Sejuti Rahman</title><link>https://swakshardeb.github.io/news/2023-ra_offer.html</link><pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/news/2023-ra_offer.html</guid><description>&lt;p>I&amp;rsquo;ve been hired as a full time research assistant under Dr. Sejuti Rahman.&lt;/p></description></item><item><title>The Changing Face of Desktop Video Game Monetisation: An Exploration of Trends in Loot Boxes, Pay to Win, and Cosmetic Microtransactions in the Most-Played Steam Games of 2010-2019</title><link>https://swakshardeb.github.io/example/2019-zendle-et-al-changing-face.html</link><pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2019-zendle-et-al-changing-face.html</guid><description/></item><item><title>The Prevalence of Loot Boxes in Mobile and Desktop Games</title><link>https://swakshardeb.github.io/example/2019-zendle-et-al-prevalence.html</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/example/2019-zendle-et-al-prevalence.html</guid><description/></item><item><title>Game of life in Rust</title><link>https://swakshardeb.github.io/project/game-of-life.html</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://swakshardeb.github.io/project/game-of-life.html</guid><description>&lt;div class="container-lg">
 &lt;div class="col-lg-12">
 &lt;h2 class="mt-5 text-left heading-color">Game of life in Rust and Webassembly&lt;/h2>
 &lt;p class="text-left">This is an implementation of &lt;a
