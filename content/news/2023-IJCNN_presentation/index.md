@@ -6,7 +6,7 @@ image:
   caption: IJCNN logo
   focal_point: Smart
 slides: example
-summary: We are the first to introduced the image memorability prediction task from the graph centric viewpoint
+summary: Our paper is the first to introduced the image memorability prediction task from a graph centric viewpoint
 tags:
 - Outreach
 title: Our paper "GEMM:A Graph Embedded Model for Memorability Prediction" is presented in IJCNN, 2023
@@ -16,7 +16,7 @@ links:
     name: presentation video
     url: 'https://youtu.be/rwwuyxahvfk'
 ---
-Our paper titled **"GEMM:A Graph Embedded Model for Memorability Prediction"**, is presented in the *IJCNN, 2023*, Queensland, Australia. This paper introduced the image memorability prediction task from the graph centric viewpoint. 
+Our paper titled **"GEMM:A Graph Embedded Model for Memorability Prediction"**, is presented in the *IJCNN, 2023*, Queensland, Australia. This paper introduced the image memorability prediction task from a graph centric viewpoint. 
 
 More information:
 - [Our paper, "GEMM:A Graph Embedded Model for Memorability Prediction"](https://ieeexplore.ieee.org/abstract/document/10191500) 
