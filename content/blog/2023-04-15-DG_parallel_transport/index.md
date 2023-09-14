@@ -27,14 +27,10 @@ Here, $V^u(\ldots, x^v+\Delta x^v, \ldots)$ is the $u$-th component of the vecto
 Intituively, this definition of the parallel transport represents the corresponding vector of $X \in T_pM$ in the vector space $T_qM$. Bascially it is a way of moving a vector over the manifold $M$. 
 
 While defining this parallel transport, we have implicitly assumed that $V\vert_x$ parallel transported to $x+\Delta x$ has the same component $V^{u}(x)$. However, there is no natural way to parallel transport a vector in a manifold and we have to specify *"how it is parallel transported"* from one point to other. Let $\tilde{V}\vert_{x+\Delta x}$ denote a vector $V\vert_x$ parallel transported to $x+\Delta x$. We demand that the components satisfy:
-
-$$
-\begin{align} 
-\tilde{V}^{u}(x+\Delta x) - V^u(x) &\propto \Delta x  \nonumber \\
-\widetilde{(V^u + W^u)}(x+\Delta x) &= \tilde{V}(x+\Delta x) + \tilde{W}^u(x+\Delta x) \nonumber
-\end{align}
-$$
-
+$$\tilde{V}^{u}(x+\Delta x) - V^u(x) \propto \Delta x$$
+$$\widetilde{(V^u + W^u)}(x+\Delta x) = \tilde{V}(x+\Delta x) + \tilde{W}^u(x+\Delta x)$$
+<!-- $$\tilde{V}^{u}(x+\Delta x) - V^u(x) &\propto \Delta x $$ -->
+<!-- \widetilde{(V^u + W^u)}(x+\Delta x) &= \tilde{V}(x+\Delta x) + \tilde{W}^u(x+\Delta x) \nonumber -->
 These condition are satisfy if we take:
 $$
 \begin{align}
@@ -44,29 +40,25 @@ $$
 
 where, $x^v=x^v\vert_{x+\Delta x} - \tilde{x}^v\vert_{x+\Delta x}$. The covariant derivative of a vector with respect to $x^v$ is defined by:
 $$
-\begin{align}
-&\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-\tilde{V}^u(x+\Delta x)}{\Delta x^v} \frac{\partial}{\partial x^u} \nonumber \\
+\begin{align*}
+&\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-\tilde{V}^u(x+\Delta x)}{\Delta x^v} \frac{\partial}{\partial x^u}  \\
 
-&=\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-V^u(x)-V^{\lambda}(x)\Gamma^{u}_{v\lambda}\Delta x^v}{\Delta x^v} \frac{\partial}{\partial x^u} \nonumber \\
+&=\lim_{\Delta x^v \to 0} \frac{V^{u}(x+\Delta x)-V^u(x)-V^{\lambda}(x)\Gamma^{u}_{v\lambda}\Delta x^v}{\Delta x^v} \frac{\partial}{\partial x^u}  \\
 
-&=(\frac{\partial V^u}{\partial x^v} + V^{\lambda}\Gamma_{v\lambda}^u) \frac{\partial}{\partial x^u} \nonumber \\
+&=(\frac{\partial V^u}{\partial x^v} + V^{\lambda}\Gamma_{v\lambda}^u) \frac{\partial}{\partial x^u}  \\
 
 &= (\nabla_{\frac{\partial}{\partial x^v}} V)^u 
-\end{align}
+\end{align*}
 $$
 
 Here, $(\nabla_{e_v} V)^u$ represents the $u$-th component of the covariant derivative along the $e_v$ direaction at point $x+\Delta x$ and the $\nabla$ denotes *connection*, which will be covered later. The quantity in Eqn $(2)$ is a vector at $x+\Delta x$ since, it is a difference of two vectors $V\vert_{x+\Delta x}$ and $\tilde{V}\vert_{x+\Delta x}$ defined at the same point $x+\Delta x$. There are many distinct rules of parallel transport possible, one for each choice of $\Gamma$. If the manifold is endowed with the metric, there exist a predefined choice of $\Gamma$, called Levi Civita Connection.
 
 # Affine Connection
 **Definition:** An affine connection $\nabla$ is a map: $\chi (M) \times \chi(M) \to \chi(M)$, or $(X,Y) \to \nabla_{X}Y$ which satisfy the following conditions:
-$$
-\begin{align}
-&\nabla_{X}(Y+Z) = \nabla_{X}Y + \nabla_{X}Z \nonumber \\
-&\nabla_{X+Y}(Z) = \nabla_{X}Z + \nabla_{Y}Z \nonumber \\
-&\nabla_{fX}(Y) = f \nabla_{X}Y \nonumber \\
-&\nabla_{X}(fY) = X[f]Y + f\nabla_{X}Y \nonumber
-\end{align}
-$$ 
+$$\nabla_{X}(Y+Z) = \nabla_{X}Y + \nabla_{X}Z$$ 
+$$\nabla_{X+Y}(Z) = \nabla_{X}Z + \nabla_{Y}Z$$
+$$\nabla_{fX}(Y) = f \nabla_{X}Y $$
+$$\nabla_{X}(fY) = X[f]Y + f\nabla_{X}Y $$ 
 where, $f \in C^{\infty}(M)$, $\chi(M)$ denotes vector field and $X,Y,Z \in \chi(M)$.
 
 Take a chart $(U,\phi)$ with the condition $x=\phi(p)$ on $M$, and define $\Gamma_{uv}^\lambda$ called the connection coefficients by:

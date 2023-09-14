@@ -13,7 +13,7 @@ title: I have successfuly defended my M.Sc. Thesis
 links:
   - icon_pack: fas
     icon: book
-    name: Thesis Book
+    name: M.Sc Thesis
     url: 'https://drive.google.com/file/d/1zC25Aa1AUdb0Nx130DVzreLP8mHYM6yf/view'
 ---
 **Topic.** The title of my M.Sc. thesis was **" Empowering Graph Wavelet Convolution for
@@ -24,3 +24,6 @@ Local Lifting Scheme"**. In this thesis work we focused to the phenomenon of pro
 SEA-GWNN incorporates higher-order neighborhoods to extract multiscale information and implements the lifting scheme without the need for an inverse transform. Additionally, SEA-GWNN introduces an attention detachment strategy, enabling the computation of attention parameters only once and re-utilizing them in successive layers, thus making SEA-GWNN more scalable compared to GA-GWNN. Finally, we benchmark this proposed SEA-GWNN on nine real-world homophilic and heterophilic datasets from three categories (i.e., citation, webpage, and film industry graphs) and four large-scale graphs, including Ogbn-Arxiv, Arxiv, Genius, and Penn94. The experimental results from these datasets demonstrate the effectiveness of our method.
 
 **Future Direction.** This work presents Generalized Adaptive Wavelet Network that extends the vanilla lifting scheme on any arbitrary graph thus producing an adaptive graph wavelet based on the signal residing on the graph. *(1)* Extending the work on this topic is an attempt to further reduce the computation cost associated with tree lifting structures. This approach will result in a more fine-grained rehab system. *(2)* One can generalize the proposed framework into many other sectors. For example, the novelty of our framework also can be extended to human activity recognition, augmented reality, gaming, driving, etc. where designing wavelet filters based on the task at hand is crucial. *(3)* Taking one step further, one can extend this proposed fusion model with a learnable aggregation function, where instead of aggregating with a fixed set of edge weights (fixed normalized adjacency matrix), one can learn these edge weights with an attention-based network. But one needs to be careful about the over-parametrization of the entire framework. *(4)* From the theoretical viewpoint, one can further study the effect of over-smoothing on our proposed network. This may result in further analysis of the effect of our two-channel filter bank that was learned through successive lifting structures. This can be observed with the help of the node profile, that analysis the node behavior at each layer.  
+
+More information:
+- [M.Sc thesis defence presentation slides with animations](https://docs.google.com/presentation/d/1a_fMTVysP8ILVc0HPVmFYnWuky6WNLMm/edit?usp=sharing&ouid=111728215995985796007&rtpof=true&sd=true)

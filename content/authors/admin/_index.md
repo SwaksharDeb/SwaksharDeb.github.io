@@ -23,7 +23,7 @@ superuser: true
 #     url: https://rme.du.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a M.Sc Student in Robotics and Mechatronics Engineering.
+bio: I am a M.Sc student in Robotics and Mechatronics Engineering.
 
 # Interests to show in About widget
 interests:
@@ -81,7 +81,7 @@ highlight_name: true
 
 # Welcome
 
-I'm  a graduate student from the Department of Robotics and Mechatronics Engineering, University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is focused on graph machine learning and computer vision. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of computer vison. 
+I'm  currently pursuing my M.Sc. degree from the Department of Robotics and Mechatronics Engineering, University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is primarily focused on graph machine learning and computer vision. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of computer vison. 
 
 My long term goal is to integrate symmetry and topological deep learning in robot vison, to enable robot to understand the world better as we human do. I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
 
