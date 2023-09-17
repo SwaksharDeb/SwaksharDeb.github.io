@@ -9,7 +9,7 @@ slides: example
 summary: Empowering Graph Wavelet Convolution for Node Classification-- A Novel Approach with Local Lifting Scheme
 tags:
 - Personal
-title: I have successfuly defended my M.Sc. Thesis
+title: I have successfully defended my M.Sc. Thesis
 links:
   - icon_pack: fas
     icon: book
