@@ -22,7 +22,7 @@ links:
   - icon_pack: fas
     icon: video
     name: Video
-    url: 'https://www.youtube.com/playlist?list=PLtuJaRV_ofJArtjv6UVxIefFItN3BG8iw'
+    url: 'https://www.youtube.com/watch?v=gjxrRMrEIHY'
 ---
 
 ![Rehab Architecture](/img/stgcn_architecture.PNG)
