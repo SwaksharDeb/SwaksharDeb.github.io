@@ -81,9 +81,9 @@ highlight_name: true
 
 # Welcome
 
-I recently completed my M.Sc. degree from the Department of Robotics and Mechatronics Engineering, University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is primarily focused on graph machine learning and computer vision. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of biomedical image processing. 
+I recently completed my M.Sc. degree from the Department of Robotics and Mechatronics Engineering, University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is primarily focused on **graph machine learning** and **computer vision**. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of **biomedical image processing**. 
 
-My long term goal is to integrate symmetry and topological deep learning in robot vison, to enable robot to understand the world better as we humans do. I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
+My long term goal is to integrate **symmetry** and **topological deep learning** in robot vison, to enable robot to understand the world better as we humans do. I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
 
 <!-- **Research Interest**
 I'm currently reading [Coordinate Independent Convolutional Networks](https://arxiv.org/pdf/2106.06020.pdf), which infatuated a fascination towards Geometric Deep Learning within me.  I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
