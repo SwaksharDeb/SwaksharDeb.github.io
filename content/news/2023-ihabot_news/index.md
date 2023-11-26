@@ -6,7 +6,7 @@ image:
   caption: Centennial Research Grant
   focal_point: Smart
 slides: example
-summary: I am working on an **Intelligent Hospital Assistance Robot** to fight contagion.
+summary: I am working on an <span style="color:red"> **Intelligent Hospital Assistance Robot**</span> to fight contagion.
 
 tags:
 - Personal

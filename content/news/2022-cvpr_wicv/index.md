@@ -6,7 +6,7 @@ image:
   caption: CVPR, WiCV logo
   focal_point: Smart
 slides: example
-summary: A part of my undergraduate dissertation project will be presented at CVPR'22, WiCV Workshop 
+summary: A part of my undergraduate dissertation project will be presented at <span style="color:red"> **CVPR'22, WiCV Workshop**</span> 
 tags:
 - Outreach
 title: Our paper "Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises" is presented in CVPR'22, WiCV Workshop

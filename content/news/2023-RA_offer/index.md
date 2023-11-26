@@ -6,7 +6,7 @@ image:
   caption: RMEDU logo
   focal_point: Smart
 slides: example
-summary: I've been hired as a full time research assistant under Dr. Sejuti Rahmna.
+summary: I've been hired as a <span style="color:red"> **full time research assistant**</span> under Dr. Sejuti Rahmna.
 
 tags:
 - Job

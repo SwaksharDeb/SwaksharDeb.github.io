@@ -6,7 +6,7 @@ image:
   caption: Dhaka University logo
   focal_point: Smart
 slides: example
-summary: Empowering Graph Wavelet Convolution for Node Classification-- A Novel Approach with Local Lifting Scheme
+summary: My <span style="color:red"> **M.Sc. thesis titled**</span>, "Empowering Graph Wavelet Convolution for Node Classification-- A Novel Approach with Local Lifting Scheme".
 tags:
 - Personal
 title: I have successfully defended my M.Sc. Thesis

@@ -6,7 +6,7 @@ image:
   caption: AI-SAROS logo
   focal_point: Smart
 slides: example
-summary: My first project that got accepted for the international grant from the AI-SAROS, IDRC Canda 
+summary: My first project that got accepted for the international grant from the <span style="color:red"> **AI-SAROS, IDRC Canda**</span> 
 tags:
 - Personal
 title: Our project on Meternal Health detection is accepted for the reserach grant from AI-SAROS, IDRC Canada
