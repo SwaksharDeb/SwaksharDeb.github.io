@@ -13,12 +13,12 @@ featured: true
 tags:
 - Graph Neural Network
 - Node Classification
-publication: "2023 Pattern Recognition Letters (PRL), Currently in press"
+publication: "2023 Pattern Recognition Letters (PRL)"
 links:
   - icon_pack: fas
     icon: scroll
     name: Paper
-    url: 'https://drive.google.com/drive/folders/13lZBX-3y4UscUBQmNbJJQytok8YWgFwm'
+    url: 'https://www.sciencedirect.com/science/article/pii/S0167865523003355?dgcid=coauthor'
   
   - icon_pack: fas
     icon: scroll

@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Stroke Rehabilitation Systems and Assessment: A Systematic Review"
-date: 2023-06-18
+date: 2022-06-18
 publishDate:  2023-06-18
 authors: ["Sejuti Rahman", "Sujan Sarker", "A. K. M. Nadimul Haque", "Monisha Mushtary Uttsha", "Md Fokhrul Islam","**Swakshar Deb**"]
 publication_types: ["2"]
